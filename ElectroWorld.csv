@@ -1,0 +1,201 @@
+CustomerID,FirstName,LastName,Email,Phone,City,State,PinCode,ProductID,ProductName,Quantity,UnitPrice,TotalPrice,OrderDate
+1,Aditya,Kumar,aditya.kumar@gmail.com,9876543210,Bangalore,Karnataka,560001,101,Mobile Phone,2,15000,30000,1/1/2023
+2,Deepika,Sharma,deepika.sharma@yahoo.com,8765432109,Mumbai,Maharashtra,400001,102,Laptop,1,50000,50000,1/2/2023
+3,Rajesh,Singh,rajesh.singh@hotmail.com,7654321098,Chennai,Tamil Nadu,600001,103,Tablet,3,10000,30000,1/3/2023
+4,Ananya,Verma,ananya.verma@gmail.com,6543210987,Hyderabad,Telangana,500001,104,Headphones,2,2000,4000,1/4/2023
+5,Amit,Patel,amit.patel@gmail.com,5432109876,Kolkata,West Bengal,700001,105,Smartwatch,1,8000,8000,1/5/2023
+6,Priya,Shah,priya.shah@yahoo.com,4321098765,Delhi,Delhi,110001,106,Printer,1,12000,12000,1/6/2023
+7,Suresh,Reddy,suresh.reddy@hotmail.com,3210987654,Bangalore,Karnataka,560001,107,External Hard Drive,2,5000,10000,1/7/2023
+8,Aishwarya,Mohan,aishwarya.mohan@gmail.com,2109876543,Mumbai,Maharashtra,400001,108,Keyboard,1,3000,3000,1/8/2023
+9,Vikram,Singh,vikram.singh@yahoo.com,1098765432,Chennai,Tamil Nadu,600001,109,Monitor,1,25000,25000,1/9/2023
+10,Divya,Sharma,divya.sharma@gmail.com,9876543210,Hyderabad,Telangana,500001,110,Mouse,3,800,2400,1/10/2023
+11,Arun,Kumar,arun.kumar@hotmail.com,8765432109,Kolkata,West Bengal,700001,111,USB Flash Drive,2,500,1000,1/11/2023
+12,Sneha,Patel,sneha.patel@gmail.com,7654321098,Delhi,Delhi,110001,112,Webcam,1,2000,2000,1/12/2023
+13,Prateek,Shah,prateek.shah@yahoo.com,6543210987,Bangalore,Karnataka,560001,113,Speaker,2,3000,6000,1/13/2023
+14,Anjali,Verma,anjali.verma@gmail.com,5432109876,Mumbai,Maharashtra,400001,114,Router,1,1500,1500,1/14/2023
+15,Rohit,Patel,rohit.patel@hotmail.com,4321098765,Chennai,Tamil Nadu,600001,115,Software,1,10000,10000,1/15/2023
+16,Neha,Singh,neha.singh@gmail.com,3210987654,Hyderabad,Telangana,500001,116,Printer Paper,5,200,1000,1/16/2023
+17,Krish,Mohan,krish.mohan@yahoo.com,2109876543,Kolkata,West Bengal,700001,117,Ink Cartridges,2,800,1600,1/17/2023
+18,Pooja,Shah,pooja.shah@gmail.com,1098765432,Delhi,Delhi,110001,118,Desk Chair,1,5000,5000,1/18/2023
+19,Arjun,Kumar,arjun.kumar@hotmail.com,9876543210,Bangalore,Karnataka,560001,119,Desk Lamp,1,1000,1000,1/19/2023
+20,Madhavi,Singh,madhavi.singh@yahoo.com,8765432109,Mumbai,Maharashtra,400001,120,External Monitor,1,18000,18000,1/20/2023
+21,Sanjay,Verma,sanjay.verma@gmail.com,7654321098,Chennai,Tamil Nadu,600001,121,Projector,1,30000,30000,1/21/2023
+22,Anita,Patel,anita.patel@yahoo.com,6543210987,Hyderabad,Telangana,500001,122,Desk Organizer,1,500,500,1/22/2023
+23,Raj,Kumar,raj.kumar@gmail.com,5432109876,Kolkata,West Bengal,700001,123,Conference Speaker,1,12000,12000,1/23/2023
+24,Meera,Shah,meera.shah@hotmail.com,4321098765,Delhi,Delhi,110001,124,Desk Fan,2,1000,2000,1/24/2023
+25,Sunil,Singh,sunil.singh@gmail.com,3210987654,Bangalore,Karnataka,560001,125,External SSD,1,6000,6000,1/25/2023
+26,Anjali,Mohan,anjali.mohan@yahoo.com,2109876543,Mumbai,Maharashtra,400001,126,Graphics Card,1,25000,25000,1/26/2023
+27,Manoj,Verma,manoj.verma@gmail.com,1098765432,Chennai,Tamil Nadu,600001,127,Wireless Charger,3,1500,4500,1/27/2023
+28,Asha,Patel,asha.patel@hotmail.com,9876543210,Hyderabad,Telangana,500001,128,Laptop Stand,1,800,800,1/28/2023
+29,Kiran,Kumar,kiran.kumar@gmail.com,8765432109,Kolkata,West Bengal,700001,129,USB Hub,2,500,1000,1/29/2023
+30,Meenakshi,Singh,meenakshi.singh@yahoo.com,7654321098,Delhi,Delhi,110001,130,Desk Mat,1,300,300,1/30/2023
+31,Vinay,Shah,vinay.shah@gmail.com,6543210987,Bangalore,Karnataka,560001,131,Bluetooth Earbuds,2,2000,4000,1/31/2023
+32,Anusha,Mohan,anusha.mohan@yahoo.com,5432109876,Mumbai,Maharashtra,400001,132,Smart Speaker,1,5000,5000,2/1/2023
+33,Rajeev,Verma,rajeev.verma@gmail.com,4321098765,Chennai,Tamil Nadu,600001,133,Wireless Mouse,1,1500,1500,2/2/2023
+34,Shweta,Patel,shweta.patel@hotmail.com,3210987654,Hyderabad,Telangana,500001,134,Desk Clock,1,500,500,2/3/2023
+35,Alok,Kumar,alok.kumar@gmail.com,2109876543,Kolkata,West Bengal,700001,135,USB Cables,3,200,600,2/4/2023
+36,Swati,Singh,swati.singh@yahoo.com,1098765432,Delhi,Delhi,110001,136,Gaming Mouse,1,3000,3000,2/5/2023
+37,Varun,Shah,varun.shah@hotmail.com,9876543210,Bangalore,Karnataka,560001,137,Desk Lamp,2,1000,2000,2/6/2023
+38,Priyanka,Mohan,priyanka.mohan@gmail.com,8765432109,Mumbai,Maharashtra,400001,138,Portable Charger,1,1500,1500,2/7/2023
+39,Sanjay,Verma,sanjay.verma@yahoo.com,7654321098,Chennai,Tamil Nadu,600001,139,Office Chair,1,8000,8000,2/8/2023
+40,Sarita,Patel,sarita.patel@gmail.com,6543210987,Hyderabad,Telangana,500001,140,Desk Calendar,1,500,500,2/9/2023
+41,Amit,Kumar,amit.kumar@hotmail.com,5432109876,Kolkata,West Bengal,700001,141,Bluetooth Headset,1,2500,2500,2/10/2023
+42,Pooja,Singh,pooja.singh@gmail.com,4321098765,Delhi,Delhi,110001,142,External Keyboard,2,4000,8000,2/11/2023
+43,Rahul,Shah,rahul.shah@yahoo.com,3210987654,Bangalore,Karnataka,560001,143,Wireless Keyboard,1,3500,3500,2/12/2023
+44,Ananya,Mohan,ananya.mohan@gmail.com,2109876543,Mumbai,Maharashtra,400001,144,Office Desk,1,12000,12000,2/13/2023
+45,Arjun,Verma,arjun.verma@hotmail.com,1098765432,Chennai,Tamil Nadu,600001,145,Desk Fan,1,1000,1000,2/14/2023
+46,Kavita,Patel,kavita.patel@gmail.com,9876543210,Hyderabad,Telangana,500001,146,External Webcam,1,2000,2000,2/15/2023
+47,Anand,Singh,anand.singh@yahoo.com,8765432109,Kolkata,West Bengal,700001,147,Wireless Headphones,2,3000,6000,2/16/2023
+48,Smita,Kumar,smita.kumar@gmail.com,7654321098,Delhi,Delhi,110001,148,Desk Organizer,1,500,500,2/17/2023
+49,Pradeep,Shah,pradeep.shah@hotmail.com,6543210987,Bangalore,Karnataka,560001,149,USB Docking Station,1,4000,4000,2/18/2023
+50,Sarika,Mohan,sarika.mohan@yahoo.com,5432109876,Mumbai,Maharashtra,400001,150,Laptop Cooling Pad,1,1000,1000,2/19/2023
+51,Harish,Patel,harish.patel@gmail.com,4321098765,Chennai,Tamil Nadu,600001,151,Wireless Mouse,3,1500,4500,2/20/2023
+52,Anjali,Singh,anjali.singh@yahoo.com,3210987654,Hyderabad,Telangana,500001,152,Desk Lamp,1,1000,1000,2/21/2023
+53,Rajiv,Verma,rajiv.verma@hotmail.com,2109876543,Kolkata,West Bengal,700001,153,External Hard Drive,2,5000,10000,2/22/2023
+54,Aishwarya,Kumar,aishwarya.kumar@gmail.com,1098765432,Delhi,Delhi,110001,154,Printer,1,12000,12000,2/23/2023
+55,Vivek,Shah,vivek.shah@yahoo.com,9876543210,Bangalore,Karnataka,560001,155,Smartwatch,1,8000,8000,2/24/2023
+56,Sunita,Mohan,sunita.mohan@gmail.com,8765432109,Mumbai,Maharashtra,400001,156,Keyboard,1,3000,3000,2/25/2023
+57,Krishna,Patel,krishna.patel@hotmail.com,7654321098,Chennai,Tamil Nadu,600001,157,Monitor,1,25000,25000,2/26/2023
+58,Sneha,Singh,sneha.singh@gmail.com,6543210987,Hyderabad,Telangana,500001,158,Mouse,3,800,2400,2/27/2023
+59,Prateek,Kumar,prateek.kumar@yahoo.com,5432109876,Kolkata,West Bengal,700001,159,USB Flash Drive,2,500,1000,2/28/2023
+60,Ananya,Verma,ananya.verma@gmail.com,4321098765,Delhi,Delhi,110001,160,Webcam,1,2000,2000,2023-02-29
+61,Kapil,Shah,kapil.shah@hotmail.com,3210987654,Bangalore,Karnataka,560001,161,Speaker,2,3000,6000,3/1/2023
+62,Ankita,Mohan,ankita.mohan@gmail.com,2109876543,Mumbai,Maharashtra,400001,162,Router,1,1500,1500,3/2/2023
+63,Sanjay,Patel,sanjay.patel@yahoo.com,1098765432,Chennai,Tamil Nadu,600001,163,Software,1,10000,10000,3/3/2023
+64,Megha,Singh,megha.singh@gmail.com,9876543210,Hyderabad,Telangana,500001,164,Printer Paper,5,200,1000,3/4/2023
+65,Kunal,Mohan,kunal.mohan@hotmail.com,8765432109,Kolkata,West Bengal,700001,165,Ink Cartridges,2,800,1600,3/5/2023
+66,Sarika,Shah,sarika.shah@gmail.com,7654321098,Delhi,Delhi,110001,166,Desk Chair,1,5000,5000,3/6/2023
+67,Rahul,Kumar,rahul.kumar@yahoo.com,6543210987,Bangalore,Karnataka,560001,167,Desk Lamp,1,1000,1000,3/7/2023
+68,Aarti,Mohan,aarti.mohan@gmail.com,5432109876,Mumbai,Maharashtra,400001,168,External Monitor,1,18000,18000,3/8/2023
+69,Arun,Verma,arun.verma@hotmail.com,4321098765,Chennai,Tamil Nadu,600001,169,Projector,1,30000,30000,3/9/2023
+70,Mona,Patel,mona.patel@gmail.com,3210987654,Hyderabad,Telangana,500001,170,Desk Organizer,1,500,500,3/10/2023
+71,Satish,Kumar,satish.kumar@hotmail.com,2109876543,Kolkata,West Bengal,700001,171,Desk Fan,2,1000,2000,3/11/2023
+72,Kavita,Singh,kavita.singh@yahoo.com,1098765432,Delhi,Delhi,110001,172,External SSD,1,6000,6000,3/12/2023
+73,Vishal,Mohan,vishal.mohan@gmail.com,9876543210,Bangalore,Karnataka,560001,173,Graphics Card,1,25000,25000,3/13/2023
+74,Anjali,Verma,anjali.verma@hotmail.com,8765432109,Mumbai,Maharashtra,400001,174,Wireless Charger,3,1500,4500,3/14/2023
+75,Alok,Patel,alok.patel@gmail.com,7654321098,Chennai,Tamil Nadu,600001,175,Laptop Stand,1,800,800,3/15/2023
+76,Kirti,Kumar,kirti.kumar@yahoo.com,6543210987,Hyderabad,Telangana,500001,176,USB Hub,2,500,1000,3/16/2023
+77,Sumit,Singh,sumit.singh@gmail.com,5432109876,Kolkata,West Bengal,700001,177,Desk Mat,1,300,300,3/17/2023
+78,Ashish,Shah,ashish.shah@hotmail.com,4321098765,Delhi,Delhi,110001,178,Bluetooth Earbuds,2,2000,4000,3/18/2023
+79,Suman,Mohan,suman.mohan@yahoo.com,3210987654,Bangalore,Karnataka,560001,179,Smart Speaker,1,5000,5000,3/19/2023
+80,Neeraj,Verma,neeraj.verma@gmail.com,2109876543,Mumbai,Maharashtra,400001,180,Wireless Mouse,1,1500,1500,3/20/2023
+81,Priya,Shah,priya.shah@gmail.com,1098765432,Chennai,Tamil Nadu,600001,181,Desk Clock,1,500,500,3/21/2023
+82,Krishna,Kumar,krishna.kumar@hotmail.com,9876543210,Hyderabad,Telangana,500001,182,USB Cables,3,200,600,3/22/2023
+83,Shalini,Singh,shalini.singh@gmail.com,8765432109,Kolkata,West Bengal,700001,183,Gaming Mouse,1,3000,3000,3/23/2023
+84,Rajeev,Shah,rajeev.shah@hotmail.com,7654321098,Delhi,Delhi,110001,184,Desk Lamp,2,1000,2000,3/24/2023
+85,Meenakshi,Mohan,meenakshi.mohan@yahoo.com,6543210987,Bangalore,Karnataka,560001,185,Portable Charger,1,1500,1500,3/25/2023
+86,Anand,Patel,anand.patel@gmail.com,5432109876,Mumbai,Maharashtra,400001,186,Office Chair,1,8000,8000,3/26/2023
+87,Swati,Singh,swati.singh@hotmail.com,4321098765,Chennai,Tamil Nadu,600001,187,Desk Calendar,1,500,500,3/27/2023
+88,Alok,Kumar,alok.kumar@gmail.com,3210987654,Hyderabad,Telangana,500001,188,Bluetooth Headset,1,2500,2500,3/28/2023
+89,Aarti,Singh,aarti.singh@yahoo.com,2109876543,Kolkata,West Bengal,700001,189,External Keyboard,2,4000,8000,3/29/2023
+90,Raj,Kumar,raj.kumar@hotmail.com,1098765432,Delhi,Delhi,110001,190,Wireless Keyboard,1,3500,3500,3/30/2023
+91,Anjali,Mohan,anjali.mohan@gmail.com,9876543210,Bangalore,Karnataka,560001,191,Office Desk,1,12000,12000,3/31/2023
+92,Arjun,Verma,arjun.verma@yahoo.com,8765432109,Mumbai,Maharashtra,400001,192,Desk Fan,1,1000,1000,4/1/2023
+93,Kavita,Patel,kavita.patel@gmail.com,7654321098,Chennai,Tamil Nadu,600001,193,External Webcam,1,2000,2000,4/2/2023
+94,Anand,Singh,anand.singh@hotmail.com,6543210987,Hyderabad,Telangana,500001,194,Wireless Headphones,2,3000,6000,4/3/2023
+95,Smita,Kumar,smita.kumar@gmail.com,5432109876,Kolkata,West Bengal,700001,195,Desk Organizer,1,500,500,4/4/2023
+96,Pradeep,Shah,pradeep.shah@hotmail.com,4321098765,Delhi,Delhi,110001,196,USB Docking Station,1,4000,4000,4/5/2023
+97,Sarika,Mohan,sarika.mohan@yahoo.com,3210987654,Bangalore,Karnataka,560001,197,Laptop Cooling Pad,1,1000,1000,4/6/2023
+98,Karishma,Verma,karishma.verma@gmail.com,2109876543,Mumbai,Maharashtra,400001,198,Wireless Mouse,3,1500,4500,4/7/2023
+99,Anil,Patel,anil.patel@yahoo.com,1098765432,Chennai,Tamil Nadu,600001,199,Desk Lamp,1,1000,1000,4/8/2023
+100,Priya,Kumar,priya.kumar@gmail.com,9876543210,Hyderabad,Telangana,500001,200,External Hard Drive,2,5000,10000,4/9/2023
+101,Arvind,Shah,arvind.shah@gmail.com,8765432109,Kolkata,West Bengal,700001,201,Printer,1,12000,12000,4/10/2023
+102,Deepa,Mohan,deepa.mohan@yahoo.com,7654321098,Delhi,Delhi,110001,202,Smartwatch,1,8000,8000,4/11/2023
+103,Kunal,Patel,kunal.patel@hotmail.com,6543210987,Bangalore,Karnataka,560001,203,Keyboard,1,3000,3000,4/12/2023
+104,Priyanka,Singh,priyanka.singh@gmail.com,5432109876,Mumbai,Maharashtra,400001,204,Monitor,1,25000,25000,4/13/2023
+105,Sachin,Verma,sachin.verma@hotmail.com,4321098765,Chennai,Tamil Nadu,600001,205,Mouse,3,800,2400,4/14/2023
+106,Aishwarya,Kumar,aishwarya.kumar@yahoo.com,3210987654,Hyderabad,Telangana,500001,206,USB Flash Drive,2,500,1000,4/15/2023
+107,Vikram,Singh,vikram.singh@gmail.com,2109876543,Kolkata,West Bengal,700001,207,Webcam,1,2000,2000,4/16/2023
+108,Divya,Shah,divya.shah@hotmail.com,1098765432,Delhi,Delhi,110001,208,Speaker,2,3000,6000,4/17/2023
+109,Anuj,Mohan,anuj.mohan@gmail.com,9876543210,Bangalore,Karnataka,560001,209,Router,1,1500,1500,4/18/2023
+110,Ritu,Patel,ritu.patel@yahoo.com,8765432109,Mumbai,Maharashtra,400001,210,Software,1,10000,10000,4/19/2023
+111,Rajat,Shah,rajat.shah@gmail.com,7654321098,Chennai,Tamil Nadu,600001,211,Printer Paper,5,200,1000,4/20/2023
+112,Anita,Kumar,anita.kumar@hotmail.com,6543210987,Hyderabad,Telangana,500001,212,Ink Cartridges,2,800,1600,4/21/2023
+113,Arun,Verma,arun.verma@gmail.com,5432109876,Kolkata,West Bengal,700001,213,Desk Chair,1,5000,5000,4/22/2023
+114,Meera,Shah,meera.shah@yahoo.com,4321098765,Delhi,Delhi,110001,214,Desk Lamp,1,1000,1000,4/23/2023
+115,Sunil,Singh,sunil.singh@gmail.com,3210987654,Bangalore,Karnataka,560001,215,External Monitor,1,18000,18000,4/24/2023
+116,Anjali,Mohan,anjali.mohan@hotmail.com,2109876543,Mumbai,Maharashtra,400001,216,Projector,1,30000,30000,4/25/2023
+117,Suresh,Patel,suresh.patel@gmail.com,1098765432,Chennai,Tamil Nadu,600001,217,Desk Organizer,1,500,500,4/26/2023
+118,Aishwarya,Kumar,aishwarya.kumar@gmail.com,9876543210,Hyderabad,Telangana,500001,218,Desk Fan,2,1000,2000,4/27/2023
+119,Vinay,Shah,vinay.shah@hotmail.com,8765432109,Kolkata,West Bengal,700001,219,External SSD,1,6000,6000,4/28/2023
+120,Anusha,Mohan,anusha.mohan@yahoo.com,7654321098,Delhi,Delhi,110001,220,Graphics Card,1,25000,25000,4/29/2023
+121,Ankur,Verma,ankur.verma@gmail.com,6543210987,Bangalore,Karnataka,560001,221,Wireless Charger,3,1500,4500,4/30/2023
+122,Shalini,Patel,shalini.patel@hotmail.com,5432109876,Mumbai,Maharashtra,400001,222,Laptop Stand,1,800,800,5/1/2023
+123,Rajesh,Kumar,rajesh.kumar@gmail.com,4321098765,Chennai,Tamil Nadu,600001,223,USB Hub,2,500,1000,5/2/2023
+124,Sarita,Singh,sarita.singh@yahoo.com,3210987654,Hyderabad,Telangana,500001,224,Desk Mat,1,300,300,5/3/2023
+125,Vinod,Shah,vinod.shah@gmail.com,2109876543,Kolkata,West Bengal,700001,225,Bluetooth Earbuds,2,2000,4000,5/4/2023
+126,Anjali,Mohan,anjali.mohan@hotmail.com,1098765432,Delhi,Delhi,110001,226,Smart Speaker,1,5000,5000,5/5/2023
+127,Rahul,Patel,rahul.patel@gmail.com,9876543210,Bangalore,Karnataka,560001,227,Wireless Mouse,1,1500,1500,5/6/2023
+128,Shweta,Singh,shweta.singh@hotmail.com,8765432109,Mumbai,Maharashtra,400001,228,Desk Clock,1,500,500,5/7/2023
+129,Alok,Kumar,alok.kumar@yahoo.com,7654321098,Chennai,Tamil Nadu,600001,229,USB Cables,3,200,600,5/8/2023
+130,Swati,Mohan,swati.mohan@gmail.com,6543210987,Hyderabad,Telangana,500001,230,Gaming Mouse,1,3000,3000,5/9/2023
+131,Varun,Shah,varun.shah@hotmail.com,5432109876,Kolkata,West Bengal,700001,231,Desk Lamp,2,1000,2000,5/10/2023
+132,Priyanka,Mohan,priyanka.mohan@gmail.com,4321098765,Delhi,Delhi,110001,232,Portable Charger,1,1500,1500,5/11/2023
+133,Sanjay,Verma,sanjay.verma@yahoo.com,3210987654,Bangalore,Karnataka,560001,233,Office Chair,1,8000,8000,5/12/2023
+134,Sarika,Patel,sarika.patel@gmail.com,2109876543,Mumbai,Maharashtra,400001,234,Desk Calendar,1,500,500,5/13/2023
+135,Amit,Kumar,amit.kumar@hotmail.com,1098765432,Chennai,Tamil Nadu,600001,235,Bluetooth Headset,1,2500,2500,5/14/2023
+136,Pooja,Singh,pooja.singh@gmail.com,9876543210,Hyderabad,Telangana,500001,236,External Keyboard,2,4000,8000,5/15/2023
+137,Rahul,Shah,rahul.shah@hotmail.com,8765432109,Kolkata,West Bengal,700001,237,Wireless Keyboard,1,3500,3500,5/16/2023
+138,Ananya,Mohan,ananya.mohan@gmail.com,7654321098,Delhi,Delhi,110001,238,Office Desk,1,12000,12000,5/17/2023
+139,Arjun,Verma,arjun.verma@yahoo.com,6543210987,Bangalore,Karnataka,560001,239,Desk Fan,1,1000,1000,5/18/2023
+140,Kavita,Patel,kavita.patel@gmail.com,5432109876,Mumbai,Maharashtra,400001,240,External Webcam,1,2000,2000,5/19/2023
+141,Anand,Singh,anand.singh@yahoo.com,4321098765,Chennai,Tamil Nadu,600001,241,Wireless Headphones,2,3000,6000,5/20/2023
+142,Smita,Kumar,smita.kumar@gmail.com,3210987654,Hyderabad,Telangana,500001,242,Desk Organizer,1,500,500,5/21/2023
+143,Pradeep,Shah,pradeep.shah@hotmail.com,2109876543,Kolkata,West Bengal,700001,243,USB Docking Station,1,4000,4000,5/22/2023
+144,Sarika,Mohan,sarika.mohan@yahoo.com,1098765432,Delhi,Delhi,110001,244,Laptop Cooling Pad,1,1000,1000,5/23/2023
+145,Karishma,Verma,karishma.verma@gmail.com,9876543210,Bangalore,Karnataka,560001,245,Wireless Mouse,3,1500,4500,5/24/2023
+146,Anil,Patel,anil.patel@yahoo.com,8765432109,Mumbai,Maharashtra,400001,246,Desk Lamp,1,1000,1000,5/25/2023
+147,Priya,Kumar,priya.kumar@gmail.com,7654321098,Chennai,Tamil Nadu,600001,247,External Hard Drive,2,5000,10000,5/26/2023
+148,Sonia,Verma,sonia.verma@gmail.com,3210987654,Hyderabad,Telangana,500001,348,Desk Mat,1,300,300,6/20/2023
+149,Ashutosh,Patel,ashutosh.patel@yahoo.com,2109876543,Bangalore,Karnataka,560001,349,Bluetooth Earbuds,2,2000,4000,6/21/2023
+150,Ankita,Singh,ankita.singh@gmail.com,1098765432,Mumbai,Maharashtra,400001,350,Smart Speaker,1,5000,5000,6/22/2023
+151,Ankur,Mohan,ankur.mohan@hotmail.com,9876543210,Chennai,Tamil Nadu,600001,351,Wireless Mouse,1,1500,1500,6/23/2023
+152,Kirti,Shah,kirti.shah@gmail.com,8765432109,Delhi,Delhi,110001,352,Desk Clock,1,500,500,6/24/2023
+153,Pranav,Kumar,pranav.kumar@yahoo.com,7654321098,Hyderabad,Telangana,500001,353,USB Cables,3,200,600,6/25/2023
+154,Kajal,Singh,kajal.singh@gmail.com,6543210987,Kolkata,West Bengal,700001,354,Gaming Mouse,1,3000,3000,6/26/2023
+155,Rajeev,Shah,rajeev.shah@hotmail.com,5432109876,Bangalore,Karnataka,560001,355,Desk Lamp,2,1000,2000,6/27/2023
+156,Priyanka,Mohan,priyanka.mohan@yahoo.com,4321098765,Mumbai,Maharashtra,400001,356,Portable Charger,1,1500,1500,6/28/2023
+157,Sanjay,Patel,sanjay.patel@gmail.com,3210987654,Chennai,Tamil Nadu,600001,357,Office Chair,1,8000,8000,6/29/2023
+158,Sarita,Singh,sarita.singh@hotmail.com,2109876543,Hyderabad,Telangana,500001,358,Desk Calendar,1,500,500,6/30/2023
+159,Amit,Kumar,amit.kumar@gmail.com,1098765432,Kolkata,West Bengal,700001,359,Bluetooth Headset,1,2500,2500,7/1/2023
+160,Pooja,Singh,pooja.singh@yahoo.com,9876543210,Delhi,Delhi,110001,360,External Keyboard,2,4000,8000,7/2/2023
+161,Rahul,Shah,rahul.shah@gmail.com,8765432109,Bangalore,Karnataka,560001,361,Wireless Keyboard,1,3500,3500,7/3/2023
+162,Ananya,Mohan,ananya.mohan@hotmail.com,7654321098,Mumbai,Maharashtra,400001,362,Office Desk,1,12000,12000,7/4/2023
+163,Arjun,Verma,arjun.verma@gmail.com,6543210987,Chennai,Tamil Nadu,600001,363,Desk Fan,1,1000,1000,7/5/2023
+164,Kavita,Patel,kavita.patel@hotmail.com,5432109876,Hyderabad,Telangana,500001,364,External Webcam,1,2000,2000,7/6/2023
+165,Anand,Singh,anand.singh@gmail.com,4321098765,Kolkata,West Bengal,700001,365,Wireless Headphones,2,3000,6000,7/7/2023
+166,Smita,Kumar,smita.kumar@yahoo.com,3210987654,Delhi,Delhi,110001,366,Desk Organizer,1,500,500,7/8/2023
+167,Pradeep,Shah,pradeep.shah@gmail.com,2109876543,Bangalore,Karnataka,560001,367,USB Docking Station,1,4000,4000,7/9/2023
+168,Sarika,Mohan,sarika.mohan@hotmail.com,1098765432,Mumbai,Maharashtra,400001,368,Laptop Cooling Pad,1,1000,1000,7/10/2023
+169,Karishma,Verma,karishma.verma@yahoo.com,9876543210,Chennai,Tamil Nadu,600001,369,Wireless Mouse,3,1500,4500,7/11/2023
+170,Anil,Patel,anil.patel@gmail.com,8765432109,Hyderabad,Telangana,500001,370,Desk Lamp,1,1000,1000,7/12/2023
+171,Priya,Kumar,priya.kumar@hotmail.com,7654321098,Kolkata,West Bengal,700001,371,External Hard Drive,2,5000,10000,7/13/2023
+172,Sonia,Verma,sonia.verma@gmail.com,6543210987,Delhi,Delhi,110001,372,Desk Mat,1,300,300,7/14/2023
+173,Ashutosh,Patel,ashutosh.patel@yahoo.com,5432109876,Bangalore,Karnataka,560001,373,Bluetooth Earbuds,2,2000,4000,7/15/2023
+174,Ankita,Singh,ankita.singh@gmail.com,4321098765,Mumbai,Maharashtra,400001,374,Smart Speaker,1,5000,5000,7/16/2023
+175,Ankur,Mohan,ankur.mohan@hotmail.com,3210987654,Chennai,Tamil Nadu,600001,375,Wireless Mouse,1,1500,1500,7/17/2023
+176,Kirti,Shah,kirti.shah@gmail.com,2109876543,Hyderabad,Telangana,500001,376,Desk Clock,1,500,500,7/18/2023
+177,Pranav,Kumar,pranav.kumar@yahoo.com,1098765432,Bangalore,Karnataka,560001,377,USB Cables,3,200,600,7/19/2023
+178,Kajal,Singh,kajal.singh@gmail.com,9876543210,Kolkata,West Bengal,700001,378,Gaming Mouse,1,3000,3000,7/20/2023
+179,Rajeev,Shah,rajeev.shah@hotmail.com,8765432109,Delhi,Delhi,110001,379,Desk Lamp,2,1000,2000,7/21/2023
+180,Priyanka,Mohan,priyanka.mohan@yahoo.com,7654321098,Mumbai,Maharashtra,400001,380,Portable Charger,1,1500,1500,7/22/2023
+181,Sanjay,Patel,sanjay.patel@gmail.com,6543210987,Chennai,Tamil Nadu,600001,381,Office Chair,1,8000,8000,7/23/2023
+182,Sarita,Singh,sarita.singh@hotmail.com,5432109876,Hyderabad,Telangana,500001,382,Desk Calendar,1,500,500,7/24/2023
+183,Amit,Kumar,amit.kumar@gmail.com,4321098765,Kolkata,West Bengal,700001,383,Bluetooth Headset,1,2500,2500,7/25/2023
+184,Pooja,Singh,pooja.singh@yahoo.com,3210987654,Delhi,Delhi,110001,384,External Keyboard,2,4000,8000,7/26/2023
+185,Rahul,Shah,rahul.shah@gmail.com,2109876543,Bangalore,Karnataka,560001,385,Wireless Keyboard,1,3500,3500,7/27/2023
+186,Ananya,Mohan,ananya.mohan@hotmail.com,1098765432,Mumbai,Maharashtra,400001,386,Office Desk,1,12000,12000,7/28/2023
+187,Arjun,Verma,arjun.verma@gmail.com,9876543210,Chennai,Tamil Nadu,600001,387,Desk Fan,1,1000,1000,7/29/2023
+188,Kavita,Patel,kavita.patel@hotmail.com,8765432109,Hyderabad,Telangana,500001,388,External Webcam,1,2000,2000,7/30/2023
+189,Anand,Singh,anand.singh@gmail.com,7654321098,Kolkata,West Bengal,700001,389,Wireless Headphones,2,3000,6000,7/31/2023
+190,Smita,Kumar,smita.kumar@yahoo.com,6543210987,Delhi,Delhi,110001,390,Desk Organizer,1,500,500,8/1/2023
+191,Pradeep,Shah,pradeep.shah@gmail.com,5432109876,Bangalore,Karnataka,560001,391,USB Docking Station,1,4000,4000,8/2/2023
+192,Sarika,Mohan,sarika.mohan@hotmail.com,4321098765,Mumbai,Maharashtra,400001,392,Laptop Cooling Pad,1,1000,1000,8/3/2023
+193,Karishma,Verma,karishma.verma@yahoo.com,3210987654,Chennai,Tamil Nadu,600001,393,Wireless Mouse,3,1500,4500,8/4/2023
+194,Anil,Patel,anil.patel@gmail.com,2109876543,Hyderabad,Telangana,500001,394,Desk Lamp,1,1000,1000,8/5/2023
+195,Priya,Kumar,priya.kumar@hotmail.com,1098765432,Kolkata,West Bengal,700001,395,External Hard Drive,2,5000,10000,8/6/2023
+196,Sonia,Verma,sonia.verma@gmail.com,9876543210,Delhi,Delhi,110001,396,Desk Mat,1,300,300,8/7/2023
+197,Ashutosh,Patel,ashutosh.patel@yahoo.com,8765432109,Bangalore,Karnataka,560001,397,Bluetooth Earbuds,2,2000,4000,8/8/2023
+198,Ankita,Singh,ankita.singh@gmail.com,7654321098,Mumbai,Maharashtra,400001,398,Smart Speaker,1,5000,5000,8/9/2023
+199,Ankur,Mohan,ankur.mohan@hotmail.com,6543210987,Chennai,Tamil Nadu,600001,399,Wireless Mouse,1,1500,1500,8/10/2023
+200,Kirti,Shah,kirti.shah@gmail.com,5432109876,Hyderabad,Telangana,500001,400,Desk Clock,1,500,500,8/11/2023
